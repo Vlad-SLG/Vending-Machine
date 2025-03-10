@@ -1,0 +1,3 @@
+1 cafea 25
+2 ceai 50
+3 apa 5

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Laborator 10 OOP ALA BUN" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Laborator 10 OOP ALA BUN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Laborator 10 OOP ALA BUN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="cout.txt" />
+		<Unit filename="create_tonomat.h" />
+		<Unit filename="domain_exception.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="monezi.h" />
+		<Unit filename="monezi.txt" />
+		<Unit filename="monezi_validator.h" />
+		<Unit filename="produs.h" />
+		<Unit filename="produs_validator.h" />
+		<Unit filename="produse.txt" />
+		<Unit filename="repo.h" />
+		<Unit filename="repo_exception.h" />
+		<Unit filename="repo_file.h" />
+		<Unit filename="service.h" />
+		<Unit filename="service_exception.h" />
+		<Unit filename="tests.h" />
+		<Unit filename="ui.h" />
+		<Unit filename="ui_exception.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

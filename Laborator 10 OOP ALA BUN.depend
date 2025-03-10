@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1716293490 source:c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\main.cpp
+	<iostream>
+	"tests.h"
+	"create_tonomat.h"
+	"service.h"
+	"ui.h"
+	"repo_file.h"
+
+1716467005 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\tests.h
+	"produs.h"
+	"monezi.h"
+	"repo.h"
+	"repo_file.h"
+	<cassert>
+
+1716286488 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\produs.h
+	<iostream>
+
+1716286488 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\monezi.h
+	<iostream>
+	<vector>
+
+1716298570 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\repo.h
+	<vector>
+	"produs.h"
+	"monezi.h"
+	<iostream>
+
+1716298374 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\repo_file.h
+	"repo.h"
+	<fstream>
+	<iostream>
+
+1716466803 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\create_tonomat.h
+	"repo.h"
+
+1716298969 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\service.h
+	"repo.h"
+
+1716299028 c:\users\silag\onedrive\documents\c++ projects\laborator 10 oop ala bun\ui.h
+	"service.h"
+
